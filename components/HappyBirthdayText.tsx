@@ -18,7 +18,7 @@ function AnimatedText({ children }: { children: string }) {
   return (
     <Text
       ref={textRef}
-      fontSize={1.2}
+      fontSize={0.7}
       color="#FFD700"
       anchorX="center"
       anchorY="middle"
